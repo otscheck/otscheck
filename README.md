@@ -1,4 +1,9 @@
-### Hi there 👋
+# Olivier OTSCHUDI OMANGA
+
+** `Digital Craftman (Developer/Manager/Creator)` **
+
+Fullstack developer, créateur de logiciel et d'application pour entreprise, avec une vision personnel de l'IT pour la RDC. application créée from scratch ou avec des framework tels que Laravel. Grand fan de Wordpress et de PHP. Beaucoup de projets à venir, donc restez connectés
+
 
 <!--
 **otscheck/otscheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
