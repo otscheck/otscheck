@@ -1,5 +1,7 @@
-### Hi there 👋, Je m'appelle Olivier OTSCHUDI OMANGA
+### Bonjour, je suis Olivier OTSCHUDI OMANGA
 #### Je suis un developpeur fullstack, créateur d'application et solution d'entreprise
+
+
 
  avec une vision personnel de l'IT pour la RDC. application créée from scratch ou avec des framework tels que Laravel, ou Express. Grand fan de Wordpress et de PHP. Beaucoup de projets à venir, donc restez connectés
 
