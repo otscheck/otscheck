@@ -1,22 +1,22 @@
-# Olivier OTSCHUDI OMANGA
+### Hi there 👋, Je m'appelle Olivier OTSCHUDI OMANGA
+#### Je suis un developpeur fullstack, créateur d'application et solution d'entreprise
+![Je suis un developpeur fullstack, créateur d'application et solution d'entreprise](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-## Digital Craftman (Developer/Entrepreneur/Creator)
+ avec une vision personnel de l'IT pour la RDC. application créée from scratch ou avec des framework tels que Laravel, ou Express. Grand fan de Wordpress et de PHP. Beaucoup de projets à venir, donc restez connectés
 
-Fullstack developer, créateur de logiciel et d'application pour entreprise, avec une vision personnel de l'IT pour la RDC. application créée from scratch ou avec des framework tels que Laravel, ou Express. Grand fan de Wordpress et de PHP. Beaucoup de projets à venir, donc restez connectés
+Skills: PHP / WORDPRESS / JS / HTML / CSS / Laravel / NodeJs
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=otscheck)](https://github.com/otscheck/github-readme-stats)
+- 🔭 I’m currently working on Solution Logiciel pour les entreprise de sécurité en RDC 
+- 🌱 I’m currently learning websockets, l'intelligence artificel, Laravel 10 
+- 📫 How to reach me: +243 81204 3131 
+- 😄 Pronouns: moi 
 
 
-**otscheck/otscheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/otscheck)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/otscheck)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@olivierotschudi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://otscheck.com/)  
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/otscheck)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🚀 Je travaille en ce moment sur une suite de projet en Laravel et Javascript.
-- 🧘🏾‍♂️ Je suis en train d'apprendre kes technologies React ...
-- 🚶🏾‍♂️ Je travaille seul pour le moment 
--  I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/otscheck)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/otscheck&show_icons=true)  
 
