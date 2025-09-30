@@ -1,72 +1,55 @@
 ![Otscheck Banner](https://raw.githubusercontent.com/otscheck/otscheck/refs/heads/main/ChatGPT%20Image%2028%20ao%C3%BBt%202025%2C%2012_20_05.png)
 
-# 👋 Bienvenue chez Otscheck
-
-Je suis **Olivier Otschudi Omanga**, développeur full stack basé en République Démocratique du Congo.  
-Je crée des outils numériques **sobres**, **solides**, **utiles** et **mobiles** pour résoudre des problèmes concrets en Afrique centrale.
-
----
-
-### 💠 Ma vision : **S²UM**
-> _**Sobre. Solide. Utile. Mobile.**_
-
-Chaque projet que je développe incarne ces quatre principes.  
-Moins de complexité, plus d’impact. Moins d’effets de mode, plus de résultats concrets.
+# 👋 Olivier Otschudi Omanga
+**Développeur Full Stack | RDC**
+*Je crée des outils numériques **sobres, solides et mobiles** pour résoudre des problèmes concrets en Afrique centrale.*
 
 ---
 
-### 🔧 Stack technique
-
-#### 🔹 **Frontend**
-- **Vue.js 3 (Composition API)** – composant par composant
-- **Pinia** – gestion d’état moderne
-- **Tailwind CSS** – design rapide et responsive
-- **HTMX + Alpine.js** – interactions simples, sans surpoids
-- **Astro** – site statique rapide, parfait pour mon blog
-- **FormKit** – formulaires accessibles et stylés
-
-#### 🔹 **Backend**
-- **Laravel 12** – robuste, structuré, RESTful
-- **Laravel Sanctum** – sécurité via session
-- **Node.js + Express** – léger, modulaire
-- **MySQL** – données structurées
-- **Firebase / Firestore** – données temps réel et auth rapide
-
-#### 🔹 **Outils Dev & CI/CD**
-- **GitHub Actions** – déploiement automatique via FTP
-- **Hostinger VPS** – hébergement cloud
-- **Git + GitLab** – versionnement précis, workflows propres
-- **VS Code** – mon environnement de travail principal
-
-#### 🔹 **Design & Assets**
-- **Figma / Canva** – maquettes légères
-- **Midjourney / DALL·E** – génération d’illustrations
-- **Inkscape / GIMP** – retouches et icônes
+### 💡 Ma philosophie : **S²UM**
+> *« **Sobre. Solide. Utile. Mobile.** »*
+Chaque projet suit ces 4 principes :
+✅ **Sobre** – Pas de surcharge, que l’essentiel.
+✅ **Solide** – Des fondations fiables pour des projets durables.
+✅ **Utile** – Des solutions qui résolvent *vraiment* des problèmes.
+✅ **Mobile** – Accessibles partout, même avec des connexions limitées.
 
 ---
 
-### 🚀 Mes projets
+### 🔧 Stack Technique
+#### **🖥️ Frontend**
+- **Vue.js** – Architecture modulaire.
+- **Tailwind CSS** – Design rapide sans dettes techniques.
+- **HTMX + Alpine.js** – Interactions dynamiques légères.
+- **Astro** – Sites statiques ultra-rapides.
 
-- **[Libateli](https://libateli.com)**  
-  _SaaS de gestion RH, paie, absences, incidents pour les sociétés de sécurité._
+#### **🖥️ Backend**
+- **Laravel** – PHP moderne, API RESTful.
+- **Node.js + Express** – Microservices légers.
+- **MySQL** – Base de données relationnelle.
+- **Firebase** – Temps réel et NoSQL.
 
-- **[Wadoria](https://wadoria.com)**  
-  _Contrôle de ronde connecté, suivi GPS des agents, alertes et supervision multi-sites._
-
-- **[Mon blog](https://otscheck.io)**  
-  _Réflexions de développeur africain, entre artisanat numérique et pragmatisme._
-
----
-
-### 📫 Me suivre / Me contacter
-
-- 🧑‍💼 [LinkedIn – Olivier Otschudi Omanga](https://linkedin.com/in/olivier-otschudi)
-- 🐦 [Twitter – @otscheck](https://twitter.com/otscheck)
-- 🌍 [otscheck.io](https://otscheck.io)
-- 📧 contact[at]otscheck.io
+#### **⚙️ DevOps & CI/CD**
+- **GitHub Actions** – Déploiement automatisé.
+- **Hostinger VPS** – Hébergement optimisé.
+- **Git + GitLab** – Workflow propre.
 
 ---
 
-**🎯 Objectif : construire, avec rigueur et passion, un écosystème technologique local, durable et accessible.**  
-*« Le code comme levier d’autonomie et de résilience. »*
+### 🚀 Projets Clés
+| **Projet**       | **Description**                                                                 | **Stack**                          | **Lien**                  |
+|------------------|-------------------------------------------------------------------------------|-----------------------------------|---------------------------|
+| **Libateli**     | SaaS de gestion RH/paie pour les sociétés de sécurité.                        | Laravel + Vue.js + Tailwind       | [libateli.com](https://libateli.com) |
+| **Wadoria**      | Solution de contrôle de ronde avec suivi GPS et alertes temps réel.          | Node.js + Firebase + HTMX         | [wadoria.com](https://wadoria.com) |
+| **Mon Blog**     | Réflexions sur le développement en Afrique : pragmatisme et solutions locales. | Astro + Markdown                 | [otscheck.io](https://otscheck.io) |
 
+---
+
+### 📫 Me contacter
+- **💼 LinkedIn** : [olivier-otschudi](https://linkedin.com/in/otscheck)
+- **🐦 Twitter** : [@otscheck](https://twitter.com/otscheck)
+- **🌍 Site** : [otscheck.io](https://otscheck.io)
+- **✉️ Email** : [contact@otscheck.io](mailto:olivier.otschudi@gmail.com)
+
+---
+> *« Le code comme levier d’autonomie et de résilience. »*
