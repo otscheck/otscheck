@@ -1,4 +1,4 @@
-![Otscheck Banner](https://raw.githubusercontent.com/otscheck/otscheck/refs/heads/main/ChatGPT%20Image%2028%20ao%C3%BBt%202025%2C%2012_20_05.png)
+
 
 # 👋 Olivier Otschudi Omanga
 **Développeur Full Stack | RDC**
