@@ -31,3 +31,7 @@ Je conçois et déploie des logiciels utilisés en production par des organisati
 - LinkedIn : https://linkedin.com/in/otscheck  
 - Site : https://otscheck.io  
 - Email : contact@otscheck.io
+
+
+> Développement orienté terrain, contraintes réelles, solutions durables.
+
