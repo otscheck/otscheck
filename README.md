@@ -1,21 +1,33 @@
-# Libateli — Architecture & Product Notes (Public)
-Libateli is an operations management platform for security companies (DRC).
+# Olivier Otschudi Omanga (Otscheck)
+Développeur full stack • RDC  
+Je conçois et déploie des logiciels utilisés en production par des organisations d’Afrique centrale.
 
-## What problem it solves
-- Staff, sites, missions, incidents, reporting (field-to-office traceability)
-- Built for low bandwidth + real operational constraints
+## Principe d’ingénierie : S²UM
+**Sobre. Solide. Utile. Mobile.**
 
-## Architecture (high-level)
-- Backend: Laravel API (Sanctum), modular domain
-- Frontend: Vue 3 (Composition API), Tailwind
-- DB: MySQL
-- CI/CD: GitHub Actions → VPS/Shared hosting
+- **Sobre** : pas de complexité inutile, surface fonctionnelle maîtrisée.
+- **Solide** : fondations fiables, architecture maintenable.
+- **Utile** : résolution de problèmes opérationnels réels.
+- **Mobile** : fonctionnement en conditions terrain (réseau instable, matériel hétérogène).
 
-## What’s inside this repo
-- Domain model (entities, boundaries)
-- API contract (OpenAPI sample)
-- Deployment notes & ops checklist
-- Diagrams (Mermaid)
+## Produits en production
+- **Libateli** — gestion opérationnelle pour sociétés de sécurité  
+  Stack : Laravel (API) • Vue 3 • Tailwind • MySQL
+- **Wadoria** — contrôle de rondes et événements terrain en temps réel  
+  Stack : Node.js / Express • Firebase / MySQL • Vue / HTMX
 
-## What’s not here
-No client data, no proprietary code. This is a public engineering overview.
+## Technologies
+**Frontend** : Vue 3 (Composition API), Tailwind, HTMX, Alpine, Astro  
+**Backend** : Laravel, Node.js  
+**Données** : MySQL, PostgreSQL, Firebase  
+**Déploiement** : CI/CD (GitHub Actions), VPS
+
+## Ce que montrent les dépôts
+- Architectures réelles (sans code client)
+- Patterns applicables en production
+- Modules extraits de projets terrain
+
+## Contact
+- LinkedIn : https://linkedin.com/in/otscheck  
+- Site : https://otscheck.io  
+- Email : contact@otscheck.io
