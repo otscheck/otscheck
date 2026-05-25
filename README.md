@@ -78,12 +78,28 @@ Contribution à un MVP ESG orienté reporting et suivi de projets.
 
 ## Observatoire technique
 
-**Journal de formation et pratique technique : 4 060 heures suivies.**  
+Depuis **2021**, je comptabilise mes heures de pratique technique comme un outil de suivi quotidien : mesurer mon effort, comparer les langages et garder une vision claire de ma progression.
+
+Ce journal ne reprend pas toutes les heures passées pendant mes études, ni les heures de consultance client, ni tout ce qui a été appris avant 2021. Il représente surtout les heures où je suis devant un ordinateur à coder, tester, lire, structurer, expérimenter et renforcer mes compétences.
+
+Et non : tout ne finit pas forcément sur GitHub. Certains apprentissages servent à comprendre, d'autres à livrer, d'autres encore à mieux concevoir les prochains systèmes.
+
+**Journal personnel de formation et pratique technique : 4 060 heures suivies.**  
 Objectif actuel : **5 000 heures**. Reste à consolider : **940 heures**.
 
 ### Graphe comparatif
 
-Chaque barre est normalisée sur la compétence la plus travaillée : **Frontend & Design, 158 h**.
+Laravel est volontairement traité comme un pilier à part : c'est l'axe le plus massif du suivi, avec **906 h**.
+
+| Rang | Technologie / axe | Heures | Masse relative |
+|---:|---|---:|---|
+| 01 | Laravel | 906 | `████████████████████` |
+| 02 | JavaScript | 264 | `██████░░░░░░░░░░░░░░` |
+| 03 | Node & Express JS | 192 | `████░░░░░░░░░░░░░░░░` |
+
+### Zoom sur le socle transversal
+
+Ici, la barre est normalisée sur **Frontend & Design, 158 h**, pour mieux comparer les compétences proches les unes des autres.
 
 | Rang | Technologie / axe | Heures | Intensité |
 |---:|---|---:|---|
@@ -93,15 +109,15 @@ Chaque barre est normalisée sur la compétence la plus travaillée : **Frontend
 | 04 | Python | 133 | `█████████████████░░░` |
 | 05 | DevOps, GitHub Actions, CI/CD | 130 | `████████████████░░░░` |
 | 06 | Database - SQL | 115 | `███████████████░░░░░` |
-| 07 | JavaScript | 113 | `██████████████░░░░░░` |
-| 08 | Code review, tests, IA | 112 | `██████████████░░░░░░` |
-| 09 | Laravel | 105 | `█████████████░░░░░░░` |
-| 10 | Intelligence artificielle | 103 | `█████████████░░░░░░░` |
-| 11 | WordPress | 101 | `█████████████░░░░░░░` |
-| 12 | React JS | 96 | `████████████░░░░░░░░` |
-| 13 | Math et algorithmique | 90.5 | `███████████░░░░░░░░░` |
-| 14 | GitHub, GitLab, VS Code, Vim | 87 | `███████████░░░░░░░░░` |
-| 15 | Finance et management | 85.5 | `███████████░░░░░░░░░` |
+| 07 | Code review, tests, IA | 112 | `██████████████░░░░░░` |
+| 08 | Intelligence artificielle | 103 | `█████████████░░░░░░░` |
+| 09 | WordPress | 101 | `█████████████░░░░░░░` |
+| 10 | React JS | 96 | `████████████░░░░░░░░` |
+| 11 | Math et algorithmique | 90.5 | `███████████░░░░░░░░░` |
+| 12 | GitHub, GitLab, VS Code, Vim | 87 | `███████████░░░░░░░░░` |
+| 13 | Finance et management | 85.5 | `███████████░░░░░░░░░` |
+| 14 | Astro | 74 | `█████████░░░░░░░░░░░` |
+| 15 | HTMX et Alpine | 69 | `█████████░░░░░░░░░░░` |
 
 ### Lecture stratégique
 
@@ -137,11 +153,11 @@ Chaque barre est normalisée sur la compétence la plus travaillée : **Frontend
 | HTMX et Alpine | 69 |
 | Intelligence artificielle | 103 |
 | Java | 59 |
-| JavaScript | 113 |
-| Laravel | 105 |
+| JavaScript | 264 |
+| Laravel | 906 |
 | Magazine + encyclopédie | 79 |
 | Math et algorithmique | 90.5 |
-| Node & Express JS | 12 |
+| Node & Express JS | 192 |
 | OS | 48 |
 | PHP | 153 |
 | Python | 133 |
@@ -203,8 +219,8 @@ Cette expérience est devenue mon avantage d'architecte : je ne conçois pas seu
 | Canal | Lien |
 |---|---|
 | LinkedIn | [linkedin.com/in/otscheck](https://linkedin.com/in/otscheck) |
-| Site | [otscheck.io](https://otscheck.io) |
-| Email | [contact@otscheck.io](mailto:contact@otscheck.io) |
+| Site | [otscheck.com](https://otscheck.com) |
+| Email | [olivier@libateli.com](olivier@libateli.com) |
 
 <p align="center">
   <strong>O:DS</strong><br>
