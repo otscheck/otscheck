@@ -93,9 +93,9 @@ Laravel est volontairement traité comme un pilier à part : c'est l'axe le plus
 
 | Rang | Technologie / axe | Heures | Masse relative |
 |---:|---|---:|---|
-| 01 | Laravel | 906 | `████████████████████` |
-| 02 | JavaScript | 264 | `██████░░░░░░░░░░░░░░` |
-| 03 | Node & Express JS | 192 | `████░░░░░░░░░░░░░░░░` |
+| 01 | <img src="https://cdn.simpleicons.org/laravel/B79C6A" width="18" alt="Laravel"> Laravel | 906 | <img src="https://img.shields.io/badge/100%25-906h-B79C6A?style=for-the-badge&logo=laravel&logoColor=F4F1EB&labelColor=0B0D10" alt="Laravel 906 h"> |
+| 02 | <img src="https://cdn.simpleicons.org/javascript/B79C6A" width="18" alt="JavaScript"> JavaScript | 264 | <img src="https://img.shields.io/badge/29%25-264h-B79C6A?style=for-the-badge&logo=javascript&logoColor=0B0D10&labelColor=0B0D10" alt="JavaScript 264 h"> |
+| 03 | <img src="https://cdn.simpleicons.org/nodedotjs/B79C6A" width="18" alt="Node.js"> Node & Express JS | 192 | <img src="https://img.shields.io/badge/21%25-192h-B79C6A?style=for-the-badge&logo=nodedotjs&logoColor=F4F1EB&labelColor=0B0D10" alt="Node et Express 192 h"> |
 
 ### Zoom sur le socle transversal
 
@@ -103,21 +103,21 @@ Ici, la barre est normalisée sur **Frontend & Design, 158 h**, pour mieux compa
 
 | Rang | Technologie / axe | Heures | Intensité |
 |---:|---|---:|---|
-| 01 | FrontEnd et Design | 158 | `████████████████████` |
-| 02 | PHP | 153 | `███████████████████░` |
-| 03 | Généralités + livres techniques | 143.5 | `██████████████████░░` |
-| 04 | Python | 133 | `█████████████████░░░` |
-| 05 | DevOps, GitHub Actions, CI/CD | 130 | `████████████████░░░░` |
-| 06 | Database - SQL | 115 | `███████████████░░░░░` |
-| 07 | Code review, tests, IA | 112 | `██████████████░░░░░░` |
-| 08 | Intelligence artificielle | 103 | `█████████████░░░░░░░` |
-| 09 | WordPress | 101 | `█████████████░░░░░░░` |
-| 10 | React JS | 96 | `████████████░░░░░░░░` |
-| 11 | Math et algorithmique | 90.5 | `███████████░░░░░░░░░` |
-| 12 | GitHub, GitLab, VS Code, Vim | 87 | `███████████░░░░░░░░░` |
-| 13 | Finance et management | 85.5 | `███████████░░░░░░░░░` |
-| 14 | Astro | 74 | `█████████░░░░░░░░░░░` |
-| 15 | HTMX et Alpine | 69 | `█████████░░░░░░░░░░░` |
+| 01 | <img src="https://cdn.simpleicons.org/html5/B79C6A" width="18" alt="Frontend"> FrontEnd et Design | 158 | <img src="https://img.shields.io/badge/100%25-158h-B79C6A?style=for-the-badge&logo=html5&logoColor=F4F1EB&labelColor=0B0D10" alt="Frontend et Design 158 h"> |
+| 02 | <img src="https://cdn.simpleicons.org/php/B79C6A" width="18" alt="PHP"> PHP | 153 | <img src="https://img.shields.io/badge/97%25-153h-B79C6A?style=for-the-badge&logo=php&logoColor=F4F1EB&labelColor=0B0D10" alt="PHP 153 h"> |
+| 03 | <img src="https://cdn.simpleicons.org/readthedocs/B79C6A" width="18" alt="Livres techniques"> Généralités + livres techniques | 143.5 | <img src="https://img.shields.io/badge/91%25-143.5h-B79C6A?style=for-the-badge&logo=readthedocs&logoColor=F4F1EB&labelColor=0B0D10" alt="Generalites et livres techniques 143.5 h"> |
+| 04 | <img src="https://cdn.simpleicons.org/python/B79C6A" width="18" alt="Python"> Python | 133 | <img src="https://img.shields.io/badge/84%25-133h-B79C6A?style=for-the-badge&logo=python&logoColor=F4F1EB&labelColor=0B0D10" alt="Python 133 h"> |
+| 05 | <img src="https://cdn.simpleicons.org/githubactions/B79C6A" width="18" alt="GitHub Actions"> DevOps, GitHub Actions, CI/CD | 130 | <img src="https://img.shields.io/badge/82%25-130h-B79C6A?style=for-the-badge&logo=githubactions&logoColor=F4F1EB&labelColor=0B0D10" alt="DevOps 130 h"> |
+| 06 | <img src="https://cdn.simpleicons.org/mysql/B79C6A" width="18" alt="SQL"> Database - SQL | 115 | <img src="https://img.shields.io/badge/73%25-115h-B79C6A?style=for-the-badge&logo=mysql&logoColor=F4F1EB&labelColor=0B0D10" alt="Database SQL 115 h"> |
+| 07 | <img src="https://cdn.simpleicons.org/testinglibrary/B79C6A" width="18" alt="Tests"> Code review, tests, IA | 112 | <img src="https://img.shields.io/badge/71%25-112h-B79C6A?style=for-the-badge&logo=testinglibrary&logoColor=F4F1EB&labelColor=0B0D10" alt="Code review tests IA 112 h"> |
+| 08 | <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23B79C6A" width="18" alt="IA"> Intelligence artificielle | 103 | <img src="https://img.shields.io/badge/65%25-103h-B79C6A?style=for-the-badge&logo=openai&logoColor=F4F1EB&labelColor=0B0D10" alt="Intelligence artificielle 103 h"> |
+| 09 | <img src="https://cdn.simpleicons.org/wordpress/B79C6A" width="18" alt="WordPress"> WordPress | 101 | <img src="https://img.shields.io/badge/64%25-101h-B79C6A?style=for-the-badge&logo=wordpress&logoColor=F4F1EB&labelColor=0B0D10" alt="WordPress 101 h"> |
+| 10 | <img src="https://cdn.simpleicons.org/react/B79C6A" width="18" alt="React"> React JS | 96 | <img src="https://img.shields.io/badge/61%25-96h-B79C6A?style=for-the-badge&logo=react&logoColor=F4F1EB&labelColor=0B0D10" alt="React JS 96 h"> |
+| 11 | <img src="https://api.iconify.design/tabler:math-function.svg?color=%23B79C6A" width="18" alt="Math"> Math et algorithmique | 90.5 | <img src="https://img.shields.io/badge/57%25-90.5h-B79C6A?style=for-the-badge&logo=wolframmathematica&logoColor=F4F1EB&labelColor=0B0D10" alt="Math et algorithmique 90.5 h"> |
+| 12 | <img src="https://cdn.simpleicons.org/git/B79C6A" width="18" alt="Git"> GitHub, GitLab, VS Code, Vim | 87 | <img src="https://img.shields.io/badge/55%25-87h-B79C6A?style=for-the-badge&logo=git&logoColor=F4F1EB&labelColor=0B0D10" alt="Git tooling 87 h"> |
+| 13 | <img src="https://api.iconify.design/tabler:chart-candle.svg?color=%23B79C6A" width="18" alt="Finance"> Finance et management | 85.5 | <img src="https://img.shields.io/badge/54%25-85.5h-B79C6A?style=for-the-badge&logo=quickbooks&logoColor=F4F1EB&labelColor=0B0D10" alt="Finance et management 85.5 h"> |
+| 14 | <img src="https://cdn.simpleicons.org/astro/B79C6A" width="18" alt="Astro"> Astro | 74 | <img src="https://img.shields.io/badge/47%25-74h-B79C6A?style=for-the-badge&logo=astro&logoColor=F4F1EB&labelColor=0B0D10" alt="Astro 74 h"> |
+| 15 | <img src="https://cdn.simpleicons.org/htmx/B79C6A" width="18" alt="HTMX"> HTMX et Alpine | 69 | <img src="https://img.shields.io/badge/44%25-69h-B79C6A?style=for-the-badge&logo=htmx&logoColor=F4F1EB&labelColor=0B0D10" alt="HTMX et Alpine 69 h"> |
 
 ### Lecture stratégique
 
@@ -176,6 +176,21 @@ Ici, la barre est normalisée sur **Frontend & Design, 158 h**, pour mieux compa
 ---
 
 ## Stack de prédilection
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-B79C6A?style=for-the-badge&logo=laravel&logoColor=F4F1EB&labelColor=0B0D10" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-B79C6A?style=for-the-badge&logo=php&logoColor=F4F1EB&labelColor=0B0D10" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-B79C6A?style=for-the-badge&logo=javascript&logoColor=0B0D10&labelColor=0B0D10" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-B79C6A?style=for-the-badge&logo=nodedotjs&logoColor=F4F1EB&labelColor=0B0D10" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-B79C6A?style=for-the-badge&logo=python&logoColor=F4F1EB&labelColor=0B0D10" alt="Python">
+  <img src="https://img.shields.io/badge/Vue.js-B79C6A?style=for-the-badge&logo=vuedotjs&logoColor=F4F1EB&labelColor=0B0D10" alt="Vue.js">
+  <img src="https://img.shields.io/badge/React-B79C6A?style=for-the-badge&logo=react&logoColor=F4F1EB&labelColor=0B0D10" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-B79C6A?style=for-the-badge&logo=typescript&logoColor=F4F1EB&labelColor=0B0D10" alt="TypeScript">
+  <img src="https://img.shields.io/badge/SQL-B79C6A?style=for-the-badge&logo=mysql&logoColor=F4F1EB&labelColor=0B0D10" alt="SQL">
+  <img src="https://img.shields.io/badge/Firebase-B79C6A?style=for-the-badge&logo=firebase&logoColor=0B0D10&labelColor=0B0D10" alt="Firebase">
+  <img src="https://img.shields.io/badge/HTMX-B79C6A?style=for-the-badge&logo=htmx&logoColor=F4F1EB&labelColor=0B0D10" alt="HTMX">
+  <img src="https://img.shields.io/badge/Astro-B79C6A?style=for-the-badge&logo=astro&logoColor=F4F1EB&labelColor=0B0D10" alt="Astro">
+</p>
 
 ```txt
 Frontend     Vue 3 · HTMX · Alpine · React · Astro · Tailwind
