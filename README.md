@@ -6,7 +6,12 @@
   <img src="https://img.shields.io/badge/RDC-Kinshasa-F4F1EB?style=for-the-badge&labelColor=090B0E" alt="Kinshasa, RDC">
 </p>
 
-<h3 align="center">Consultant Senior Full Stack & Architecte Logiciel</h3>
+<h3 align="center">Développeur web · Architecte logiciel · Entrepreneur optimiste</h3>
+
+<p align="center">
+  Consultant senior full stack, fondateur de la marque professionnelle <strong>O:DS</strong>,
+  je construis des outils métier pour transformer les contraintes du terrain en systèmes fiables.
+</p>
 
 <p align="center">
   Je conçois des systèmes numériques sobres, solides et utilisables en conditions réelles :
@@ -87,91 +92,72 @@ Et non : tout ne finit pas forcément sur GitHub. Certains apprentissages serven
 **Journal personnel de formation et pratique technique : 4 060 heures suivies.**  
 Objectif actuel : **5 000 heures**. Reste à consolider : **940 heures**.
 
-### Graphe comparatif
+### TÉLÉMÉTRIE SYSTÈME — O:DS
 
-Laravel est volontairement traité comme un pilier à part : c'est l'axe le plus massif du suivi, avec **906 h**.
+Radar personnel d'ingénierie — apprendre, construire, livrer.
 
-| Rang | Technologie / axe | Heures | Masse relative |
-|---:|---|---:|---|
-| 01 | <img src="https://cdn.simpleicons.org/laravel/B79C6A" width="18" alt="Laravel"> Laravel | 906 | <img src="https://img.shields.io/badge/100%25-906h-B79C6A?style=for-the-badge&logo=laravel&logoColor=F4F1EB&labelColor=0B0D10" alt="Laravel 906 h"> |
-| 02 | <img src="https://cdn.simpleicons.org/javascript/B79C6A" width="18" alt="JavaScript"> JavaScript | 264 | <img src="https://img.shields.io/badge/29%25-264h-B79C6A?style=for-the-badge&logo=javascript&logoColor=0B0D10&labelColor=0B0D10" alt="JavaScript 264 h"> |
-| 03 | <img src="https://cdn.simpleicons.org/nodedotjs/B79C6A" width="18" alt="Node.js"> Node & Express JS | 192 | <img src="https://img.shields.io/badge/21%25-192h-B79C6A?style=for-the-badge&logo=nodedotjs&logoColor=F4F1EB&labelColor=0B0D10" alt="Node et Express 192 h"> |
+<p align="center">
+  <img src="assets/telemetry-stack.svg" alt="TELEMETRY STACK - Personal engineering radar O:DS" width="100%">
+</p>
 
-### Zoom sur le socle transversal
+<!-- TELEMETRY:BEGIN -->
+<!-- Généré depuis le programme2026.xlsm avec scripts/update-telemetry-from-excel.py. -->
+<p align="center">
+  <img src="https://img.shields.io/badge/BASE-Laravel%20905.5h-B79C6A?style=for-the-badge&labelColor=0B0D10" alt="Base Laravel 905.5 h">
+  <img src="https://img.shields.io/badge/Suivi-4060h-D6C3A3?style=for-the-badge&labelColor=11151B" alt="4060 heures suivies">
+  <img src="https://img.shields.io/badge/Objectif-5000h-8C7355?style=for-the-badge&labelColor=0B0D10" alt="Objectif 5000 heures">
+</p>
 
-Ici, la barre est normalisée sur **Frontend & Design, 158 h**, pour mieux comparer les compétences proches les unes des autres.
+```txt
+[SOCLE PRINCIPAL]
+Laravel                         ████████████████   905.5h   100%
+Vue JS                          ████████           452.5h    50%
+JavaScript                      █████                264h    29%
+Node & Express JS               ███                  192h    21%
+FrontEnd et Design              ███                  158h    17%
+PHP                             ███                  153h    17%
+Généralités + livres techniques ███                143.5h    16%
+Python                          ██                   133h    15%
+DevOps, GitHub Actions, CI/CD   ██                   130h    14%
+Database - SQL                  ██                   115h    13%
 
-| Rang | Technologie / axe | Heures | Intensité |
-|---:|---|---:|---|
-| 01 | <img src="https://cdn.simpleicons.org/html5/B79C6A" width="18" alt="Frontend"> FrontEnd et Design | 158 | <img src="https://img.shields.io/badge/100%25-158h-B79C6A?style=for-the-badge&logo=html5&logoColor=F4F1EB&labelColor=0B0D10" alt="Frontend et Design 158 h"> |
-| 02 | <img src="https://cdn.simpleicons.org/php/B79C6A" width="18" alt="PHP"> PHP | 153 | <img src="https://img.shields.io/badge/97%25-153h-B79C6A?style=for-the-badge&logo=php&logoColor=F4F1EB&labelColor=0B0D10" alt="PHP 153 h"> |
-| 03 | <img src="https://cdn.simpleicons.org/readthedocs/B79C6A" width="18" alt="Livres techniques"> Généralités + livres techniques | 143.5 | <img src="https://img.shields.io/badge/91%25-143.5h-B79C6A?style=for-the-badge&logo=readthedocs&logoColor=F4F1EB&labelColor=0B0D10" alt="Generalites et livres techniques 143.5 h"> |
-| 04 | <img src="https://cdn.simpleicons.org/python/B79C6A" width="18" alt="Python"> Python | 133 | <img src="https://img.shields.io/badge/84%25-133h-B79C6A?style=for-the-badge&logo=python&logoColor=F4F1EB&labelColor=0B0D10" alt="Python 133 h"> |
-| 05 | <img src="https://cdn.simpleicons.org/githubactions/B79C6A" width="18" alt="GitHub Actions"> DevOps, GitHub Actions, CI/CD | 130 | <img src="https://img.shields.io/badge/82%25-130h-B79C6A?style=for-the-badge&logo=githubactions&logoColor=F4F1EB&labelColor=0B0D10" alt="DevOps 130 h"> |
-| 06 | <img src="https://cdn.simpleicons.org/mysql/B79C6A" width="18" alt="SQL"> Database - SQL | 115 | <img src="https://img.shields.io/badge/73%25-115h-B79C6A?style=for-the-badge&logo=mysql&logoColor=F4F1EB&labelColor=0B0D10" alt="Database SQL 115 h"> |
-| 07 | <img src="https://cdn.simpleicons.org/testinglibrary/B79C6A" width="18" alt="Tests"> Code review, tests, IA | 112 | <img src="https://img.shields.io/badge/71%25-112h-B79C6A?style=for-the-badge&logo=testinglibrary&logoColor=F4F1EB&labelColor=0B0D10" alt="Code review tests IA 112 h"> |
-| 08 | <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23B79C6A" width="18" alt="IA"> Intelligence artificielle | 103 | <img src="https://img.shields.io/badge/65%25-103h-B79C6A?style=for-the-badge&logo=openai&logoColor=F4F1EB&labelColor=0B0D10" alt="Intelligence artificielle 103 h"> |
-| 09 | <img src="https://cdn.simpleicons.org/wordpress/B79C6A" width="18" alt="WordPress"> WordPress | 101 | <img src="https://img.shields.io/badge/64%25-101h-B79C6A?style=for-the-badge&logo=wordpress&logoColor=F4F1EB&labelColor=0B0D10" alt="WordPress 101 h"> |
-| 10 | <img src="https://cdn.simpleicons.org/react/B79C6A" width="18" alt="React"> React JS | 96 | <img src="https://img.shields.io/badge/61%25-96h-B79C6A?style=for-the-badge&logo=react&logoColor=F4F1EB&labelColor=0B0D10" alt="React JS 96 h"> |
-| 11 | <img src="https://api.iconify.design/tabler:math-function.svg?color=%23B79C6A" width="18" alt="Math"> Math et algorithmique | 90.5 | <img src="https://img.shields.io/badge/57%25-90.5h-B79C6A?style=for-the-badge&logo=wolframmathematica&logoColor=F4F1EB&labelColor=0B0D10" alt="Math et algorithmique 90.5 h"> |
-| 12 | <img src="https://cdn.simpleicons.org/git/B79C6A" width="18" alt="Git"> GitHub, GitLab, VS Code, Vim | 87 | <img src="https://img.shields.io/badge/55%25-87h-B79C6A?style=for-the-badge&logo=git&logoColor=F4F1EB&labelColor=0B0D10" alt="Git tooling 87 h"> |
-| 13 | <img src="https://api.iconify.design/tabler:chart-candle.svg?color=%23B79C6A" width="18" alt="Finance"> Finance et management | 85.5 | <img src="https://img.shields.io/badge/54%25-85.5h-B79C6A?style=for-the-badge&logo=quickbooks&logoColor=F4F1EB&labelColor=0B0D10" alt="Finance et management 85.5 h"> |
-| 14 | <img src="https://cdn.simpleicons.org/astro/B79C6A" width="18" alt="Astro"> Astro | 74 | <img src="https://img.shields.io/badge/47%25-74h-B79C6A?style=for-the-badge&logo=astro&logoColor=F4F1EB&labelColor=0B0D10" alt="Astro 74 h"> |
-| 15 | <img src="https://cdn.simpleicons.org/htmx/B79C6A" width="18" alt="HTMX"> HTMX et Alpine | 69 | <img src="https://img.shields.io/badge/44%25-69h-B79C6A?style=for-the-badge&logo=htmx&logoColor=F4F1EB&labelColor=0B0D10" alt="HTMX et Alpine 69 h"> |
+[INTERFACE, PRODUIT & RECHERCHE]
+Code review + tests + temps IA  ██                   112h    12%
+Intelligence artificielle       ██                   103h    11%
+WordPress                       ██                   101h    11%
+React JS                        ██                    96h    11%
+Math et algorithmique           ██                  90.5h    10%
+GitHub + GitLab + VS Code + Vim ██                    87h    10%
+Finance et management           ██                  85.5h     9%
+Magazine + encyclopédie         ▌                     79h     9%
+Astro                           ▌                     74h     8%
+HTMX et Alpine                  ▌                     69h     8%
+Firebase                        ▌                     61h     7%
+Java                            ▌                     59h     7%
+Excel, Access, MS Office        ▌                     57h     6%
+Réseaux                         ▌                     57h     6%
 
-### Lecture stratégique
+[EXPLORATIONS & FONDATIONS]
+OS                              ▌                     48h     5%
+Web 3.0                         ▌                     42h     5%
+Sécurité                        ▌                   41.5h     5%
+TypeScript                      ▌                     37h     4%
+Android                         ▌                     34h     4%
+Architecture                    ▏                     18h     2%
+Hardware                        ▏                     18h     2%
+Physique et électronique        ▏                     16h     2%
+Regex                           ▏                     15h     2%
+Rust                            ▏                      7h     1%
+C++                             ▏                      5h     1%
+Go                              ▏                      1h     0%
 
-| Pôle | Signal |
-|---|---|
-| Socle métier | Architecture SI, management, opérations, reporting, supervision |
-| Socle logiciel | PHP, Laravel, JavaScript, Vue, React, Node, Python |
-| Socle production | SQL, DevOps, Git, CI/CD, Linux, sécurité, réseaux |
-| Socle interface | Frontend, design, HTMX, Alpine, Astro, WordPress |
-| Socle recherche | IA, math, algorithmique, livres techniques, code review |
-
-<details>
-<summary><strong>Détail des axes visibles dans le tableau transmis</strong></summary>
-
-| Technologie / domaine | Heures |
-|---|---:|
-| Android | 34 |
-| Architecture | 18 |
-| Physique et électronique | 16 |
-| Astro | 74 |
-| C++ | 5 |
-| Code review + tests + temps IA | 112 |
-| Database - SQL | 115 |
-| DevOps, GitHub Actions, CI/CD | 130 |
-| Excel, Access, MS Office | 57 |
-| Finance et management | 85.5 |
-| Firebase | 61 |
-| FrontEnd et Design | 158 |
-| Généralités + livres techniques | 143.5 |
-| Go | 1 |
-| GitHub + GitLab + VS Code + Vim | 87 |
-| Hardware | 18 |
-| HTMX et Alpine | 69 |
-| Intelligence artificielle | 103 |
-| Java | 59 |
-| JavaScript | 264 |
-| Laravel | 906 |
-| Magazine + encyclopédie | 79 |
-| Math et algorithmique | 90.5 |
-| Node & Express JS | 192 |
-| OS | 48 |
-| PHP | 153 |
-| Python | 133 |
-| React JS | 96 |
-| Regex | 15 |
-| Réseaux | 57 |
-| Rust | 7 |
-| Sécurité | 41.5 |
-| TypeScript | 37 |
-| Vue JS | 65 |
-| Web 3.0 | 42 |
-| WordPress | 101 |
-
-</details>
+[SYSTÈMES TERRAIN]
+LIBATELI                         ● PRODUCTION
+WADORIA                          ● DEPLOYMENT
+EKOKELO                          ● R&D
+O:DS                             ● ECOSYSTEM
+```
+<!-- TELEMETRY:END -->
 
 ---
 
